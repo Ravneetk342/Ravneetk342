@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ravneet Kaur 👋
 
-<!--
-**Ravneetk342/Ravneetk342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate | AI/ML Enthusiast | Aspiring Technology Professional
 
-Here are some ideas to get you started:
+I'm passionate about exploring technology, solving real-world problems, and building practical solutions through software development and machine learning. I enjoy learning new technologies, experimenting with ideas, and turning concepts into meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education:** B.Tech in Computer Science & Engineering (AI/ML), VIT Bhopal
+
+## 📄 Resume
+[View My Resume](Ravneet_Kaur_Resume.pdf)
+
+## 💻 Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Software Development
+- Data Science & Analytics
+- Product Development & Problem Solving
+- Building User-Centric Technology Solutions
+
+## 🛠️ Technical Skills
+- **Languages:** Python, Java
+- **Machine Learning:** Scikit-learn, TensorFlow, Deep Learning, NLP, Computer Vision
+- **Data & Tools:** NumPy, Pandas, OpenCV, Git, GitHub, Streamlit
+
+## 🚀 Featured Projects
+*Explore my repositories to see my projects and technical work.*
+
+## 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ravneetkaur0110
+- GitHub: [@Ravneetk342](https://github.com/Ravneetk342)
